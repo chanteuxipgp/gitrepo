@@ -1,5 +1,5 @@
-# Metallica
-## Metallica (aka *The Black Album*, 1991)
+# Metallica - Metallica (aka *The Black Album*, 1991)
+## Pierrick CHANTEUX
 
 ![COVER](Metallica.jpeg)
 
